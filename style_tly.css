@@ -1,0 +1,62 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 14px;
+  background-color: azure;
+  padding: 10px;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 30px;
+  color: darkslategrey;
+  animation: textwelle 2s;
+  background-color: bisque;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 20px;
+  color: teal;
+}
+
+p {
+}
+
+.object-fit {
+  width: 500px;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
+
+.object-fit {
+  object-fit: cover;
+  width: 80%;
+}
+
+#div1 {
+  border-left-style: dashed;
+  border-color: gray;
+  background-color: gainsboro;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.div2 {
+  background-color: gray;
+  color: white;
+  padding: 15px;
+  border-left-style: dashed;
+  border-bottom-right-radius: 50px;
+}
+
+.div3 {
+  border: 2px solid black;
+  color: white
+  padding: 8px;
+  border-radius: 50px;
+  text-align: center;
+  background-color: darkslategrey;
+}
