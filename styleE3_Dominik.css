@@ -1,6 +1,14 @@
+html {
+	background: snow;
+}
+
 h1 {
 	font-size: 150%;
 	color: red;
 	background-color: lightgray;
 	text-align: center;
+}
+
+.summary {
+	font-style: italic;
 }
